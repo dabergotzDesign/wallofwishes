@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wallofwishes/static/css/main.08a7b772.chunk.css",
-    "main.js": "/wallofwishes/static/js/main.dde9419b.chunk.js",
-    "main.js.map": "/wallofwishes/static/js/main.dde9419b.chunk.js.map",
+    "main.js": "/wallofwishes/static/js/main.91140806.chunk.js",
+    "main.js.map": "/wallofwishes/static/js/main.91140806.chunk.js.map",
     "runtime-main.js": "/wallofwishes/static/js/runtime-main.e2bc8ada.js",
     "runtime-main.js.map": "/wallofwishes/static/js/runtime-main.e2bc8ada.js.map",
     "static/js/2.42fa6208.chunk.js": "/wallofwishes/static/js/2.42fa6208.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/wallofwishes/index.html",
     "static/css/main.08a7b772.chunk.css.map": "/wallofwishes/static/css/main.08a7b772.chunk.css.map",
     "static/js/2.42fa6208.chunk.js.LICENSE.txt": "/wallofwishes/static/js/2.42fa6208.chunk.js.LICENSE.txt",
+    "static/media/Site-Logo_transparent.682af7cc.png": "/wallofwishes/static/media/Site-Logo_transparent.682af7cc.png",
     "static/media/logo.6ce24c58.svg": "/wallofwishes/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e2bc8ada.js",
     "static/js/2.42fa6208.chunk.js",
     "static/css/main.08a7b772.chunk.css",
-    "static/js/main.dde9419b.chunk.js"
+    "static/js/main.91140806.chunk.js"
   ]
 }
